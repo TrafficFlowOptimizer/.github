@@ -15,6 +15,8 @@ Points:
     - 26.3% commuted from half to one hour
     - 8.1% commuted at least an hour
     - 4.3% didn't travel at all
+    - +30 min: +35%
+    - 30-44 min: +20%
     - 25 minutes on average
 2. Poland:
     - +30 min: 5489.5k (34.9%)
