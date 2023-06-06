@@ -16,3 +16,10 @@ Produktem będzie aplikacja webowa typu klient-serwer. Frontend zaimplementowany
 - Mateusz Więcek
 - Jędrzej Ziebura
 - Szymon Żychowicz
+
+## Porty:
+- 8080:  Spring
+- 27017: Mongo
+- 5432:  Postgres
+- 9091:  Minizinc Server
+- 8081:  OpenCV Server
