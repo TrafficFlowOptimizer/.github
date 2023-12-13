@@ -1,4 +1,4 @@
-# TrafficFlowOprimizer
+# TrafficFlowOptimizer
 ## Praca inżynierska
 
 ### Title:
